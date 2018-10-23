@@ -1,2 +1,2 @@
-# Shinobu Nakashima
+# Isaac Stomboly
 ## My first Git Repo
